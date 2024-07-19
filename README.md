@@ -18,7 +18,7 @@
   
 - 👯 I’m looking to collaborate on open source Frontend and Backend projects.
 
-- 📫 How to reach me **farzanullah07@gmail.com**
+- 📫 Reach me at **farzanullah07@gmail.com**
 
 - ⚡ Fun fact :- Food, Music and Gaming are the reasons to live.
 
