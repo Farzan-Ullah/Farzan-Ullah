@@ -16,9 +16,9 @@
 
 - 🔭 I’m currently working independently on various projects.
   
-- 🌱 I’m currently learning more about latest technologies like Redux, ZOD, Toolkits etc.
+- 🌱 I’m currently learning more about latest technologies for Frontend Development.
   
-- 👯 I’m looking to collaborate on open source Frontend projects.
+- 👯 I’m looking to collaborate on open source Frontend and Backend projects.
 
 - 📫 How to reach me **farzanullah07@gmail.com**
 
