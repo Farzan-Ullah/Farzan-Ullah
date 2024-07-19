@@ -9,14 +9,20 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<!--  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p> -->
+
+<br>
 
 
-- 🌱 I’m currently working independently on various projects.
+- 🔭 I’m currently working independently on various projects.
+  
+- 🌱 I’m currently learning more about latest technologies like Redux, ZOD, Toolkits etc.
+  
+- 👯 I’m looking to collaborate on open source Frontend projects.
 
 - 📫 How to reach me **farzanullah07@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Food, Music and Gaming are the reasons to live.
 
 <br>
 
@@ -51,7 +57,7 @@
 	![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-
+<br>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
