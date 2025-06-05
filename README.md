@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farzan Ullah</h1>
-<h3 align="center">Software Developer (FullStack)🌟.</h3>
+<h3 align="center">Fullstack Developer🌟.</h3>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working independently on various projects.
   
-- 🌱 I’m currently learning more about latest technologies for Frontend Development.
+- 🌱 Learning more about latest technologies for Frontend Development.
   
 - 👯 I’m looking to collaborate on open source Frontend and Backend projects.
 
